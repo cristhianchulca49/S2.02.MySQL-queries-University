@@ -31,7 +31,7 @@
 +Strosin | Turcotte | Ismael
 ```
 
-⏱ Tiempo: 0.42 ms
+⏱ Tiempo: 0.39 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
@@ -49,7 +49,7 @@
 +Ismael | Strosin | Turcotte
 ```
 
-⏱ Tiempo: 0.27 ms
+⏱ Tiempo: 0.31 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
@@ -67,7 +67,7 @@
 +22.00 | Antonio | Domínguez | Guerrero | 1999-02-11
 ```
 
-⏱ Tiempo: 0.29 ms
+⏱ Tiempo: 0.31 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
@@ -89,7 +89,7 @@
 +Guillermo | Ruecker | Upton | 85869555K
 ```
 
-⏱ Tiempo: 0.26 ms
+⏱ Tiempo: 0.30 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
@@ -121,7 +121,7 @@
 +77.00 | Técnicas instrumentales básicas | 1.00 | 3.00 | 7.00
 ```
 
-⏱ Tiempo: 0.31 ms
+⏱ Tiempo: 0.34 ms
 ✅ Se usó índice(s) en la consulta: id_grado
 
 ---
@@ -168,7 +168,7 @@
 +Física para informática | 2014.00 | 2015.00
 ```
 
-⏱ Tiempo: 0.58 ms
+⏱ Tiempo: 0.53 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, PRIMARY,id_asignatura,id_curso_escolar, PRIMARY,nif
 
 ---
@@ -186,8 +186,8 @@
 +Informática
 ```
 
-⏱ Tiempo: 0.43 ms
-✅ Se usó índice(s) en la consulta: id_profesor,id_grado, PRIMARY, PRIMARY,id_departamento
+⏱ Tiempo: 0.38 ms
+✅ Se usó índice(s) en la consulta: PRIMARY, PRIMARY,id_departamento, id_profesor,id_grado
 
 ---
 
